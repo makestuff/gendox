@@ -1,0 +1,3 @@
+A small Perl wrapper around Doxygen, to make it easy to doc just a single header file.
+
+Running build.sh will download and build Doxygen in this directory.
